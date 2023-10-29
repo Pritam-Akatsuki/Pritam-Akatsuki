@@ -1,7 +1,5 @@
 [![MaterHead](https://media.licdn.com/dms/image/D4D16AQHXLjuJnEoHZw/profile-displaybackgroundimage-shrink_350_1400/0/1698569445136?e=1704326400&v=beta&t=VqjQBn8FAYWEpqWyP-IEL6ewpxAK4txzh0e7UUoELk0)](https://Pritam-Akatsuki.io)
-<h1 align="center">Hi 👋, I'm Pritam Lambade</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
+<hr>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="NotFoundAny">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-akatsuki&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-akatsuki" /> </p>

@@ -1,4 +1,4 @@
-[![MaterHead](https://media.licdn.com/dms/image/D4D16AQHXLjuJnEoHZw/profile-displaybackgroundimage-shrink_350_1400/0/1698569445136?e=1704326400&v=beta&t=VqjQBn8FAYWEpqWyP-IEL6ewpxAK4txzh0e7UUoELk0)](https://Pritam-Akatsuki.io)
+<img align="center" src= "https://media.licdn.com/dms/image/D4D16AQHXLjuJnEoHZw/profile-displaybackgroundimage-shrink_350_1400/0/1698569446817?e=1714608000&v=beta&t=x9tgWkc2G_1kGA3lpGTmz8Oi7mJQ9bpkIAXIbbXZSJw" alt="Linkedin banner">
 <hr>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="NotFoundAny">
 

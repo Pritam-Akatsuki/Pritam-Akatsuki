@@ -1,4 +1,4 @@
-<img align="center" src= "https://media.licdn.com/dms/image/D4D16AQHXLjuJnEoHZw/profile-displaybackgroundimage-shrink_350_1400/0/1698569446817?e=1714608000&v=beta&t=x9tgWkc2G_1kGA3lpGTmz8Oi7mJQ9bpkIAXIbbXZSJw" alt="Linkedin banner">
+<img align="center" src= "https://media.licdn.com/dms/image/v2/D4D16AQHmGAZhTQf5EA/profile-displaybackgroundimage-shrink_350_1400/B4DZusFjcHJUAY-/0/1768118696229?e=1772668800&v=beta&t=hUfw5XdpG_a-dZkbTsTdYyoKEzEhQel1QBgsVG_aq1o" alt="Linkedin banner">
 <hr>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="NotFoundAny">
 

@@ -1,35 +1,100 @@
-<img align="center" src= "https://media.licdn.com/dms/image/v2/D4D16AQHmGAZhTQf5EA/profile-displaybackgroundimage-shrink_350_1400/B4DZusFjcHJUAY-/0/1768118696229?e=1772668800&v=beta&t=hUfw5XdpG_a-dZkbTsTdYyoKEzEhQel1QBgsVG_aq1o" alt="Linkedin banner">
-<hr>
-<img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="NotFoundAny">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-akatsuki&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-akatsuki" /> </p>
+# Hey there, I'm Pritam Lambade
 
-- 🌱 I’m currently learning **MERN stack**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Learner+%F0%9F%8C%B1;React+Enthusiast+%E2%9A%9B%EF%B8%8F;C%2B%2B+Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html](https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html)
+<br/>
 
-- 💬 Ask me about **react , web-dev , c++**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logoColor=white)](https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-lambade-7996b420a/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritamsheth581@gmail.com)
 
-- 📫 How to reach me **pritamsheth581@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=pritam-akatsuki&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pritam-lambade-7996b420a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-lambade-7996b420a/" height="30" width="40" /></a>
-<a href="[https://fb.com/https://www.facebook.com/pritam.lambade.9/](https://www.facebook.com/pritam.lambade.9/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pritam.lambade.9/" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/_mr.p_581_/?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d](https://www.instagram.com/_mr.p_581_/?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mr.p_581_/?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
-  <a href="[https://www.hackerrank.com/sanketharvande49](https://www.hackerrank.com/profile/pritamlambade)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanketharvande49" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">My Portfolio:</h3>
-<a href="https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html" target="_blank"><img align="center" src="https://pritam-akatsuki.github.io/MyPortfolio.github.io/ImgCss/pl-logo-cut.png" alt="Portfolio website" height="30" width="40" /></a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-Akatsuki&show_icons=true&locale=en&layout=compact" alt="sanketh17" /></p>
+```javascript
+const pritam = {
+  name: "Pritam Lambade",
+  role: "Software Developer",
+  currentlyLearning: ["Angular"],
+  askMeAbout: ["Spartacus", "Flutter", "Web Development", "UI/UX"],
+  contact: "pritamlambade@gmail.com",
+  portfolio: "https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html",
+  funFact: "I debug with console.log and I'm proud of it 😄"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritam-Akatsuki&show_icons=true&locale=en" alt="sanketh17" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Akatsuki&" alt="sanketh17" /></p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Frontend
+![SAP Spartacus](https://img.shields.io/badge/SAP_Spartacus-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pritam-Akatsuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Akatsuki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Akatsuki&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritam_Lambade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-lambade-7996b420a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_mr.p_581_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.p_581_/)
+[![Facebook](https://img.shields.io/badge/Facebook-Pritam_Lambade-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritam.lambade.9/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pritamlambade)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐️ **If you like my work, consider giving my repos a star!**
+
+</div>

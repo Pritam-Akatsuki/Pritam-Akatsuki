@@ -8,7 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logoColor=white)](https://pritam-akatsuki.github.io/MyPortfolio.github.io/portfolio.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-lambade-7996b420a/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritamsheth581@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=pritam-akatsuki&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
@@ -80,7 +79,7 @@ const pritam = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritam_Lambade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-lambade-7996b420a/)
-[![Instagram](https://img.shields.io/badge/Instagram-@_mr.p_581_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.p_581_/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_mr.p_581_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_mr.p_581_/](https://www.instagram.com/_noname.2001/))
 [![Facebook](https://img.shields.io/badge/Facebook-Pritam_Lambade-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritam.lambade.9/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pritamlambade)
 
